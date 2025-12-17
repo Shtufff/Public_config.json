@@ -15,6 +15,7 @@ These files are free to use in a non-commercial setting.
 
 ### Shtufff (Thomas)
 - Discord: `Shtufff1999`
+- Discord Server: `https://discord.gg/KgyxnxgAtx`
 - Email: `inverkip644@gmail.com`
 
 ---
