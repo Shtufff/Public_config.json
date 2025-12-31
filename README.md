@@ -1,4 +1,4 @@
-# Shadow Elite Configuration Files
+# Arma Reforger Server Configuration Files
 
 **Author:** *Shtufff*  
 **Date:** 17 December 2025
