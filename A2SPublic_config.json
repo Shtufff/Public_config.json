@@ -3,7 +3,6 @@
         "address": "",
         "port": 17777
     },
-{
     "bindAddress": "0.0.0.0",
     "bindPort": ,
     "game": {
