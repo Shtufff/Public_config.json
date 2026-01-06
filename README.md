@@ -9,9 +9,13 @@ This repository contains configuration `.json` files for the video game "Arma Re
 
 ## What one do I need?
 
-If you want to run a website that has server stats like player count and the likes, use the `A2S` File. If this is not something you want, use the regular `config.json`.
+If you want to run a website that has server stats like player count and the likes, use the `A2S` File. 
 
-Note that when using the `A2SPublic_config.json` it must be renamed to `config.json` when adding it to your server, or else it wont work!
+If this is not something you want and you want to use mods, use `config.json`.
+
+If you want no mods or admins use `blank.json`.
+
+Note that when using these files they must be renamed to `config.json` when adding it to your server, or else it wont work!
 
 If you have any questions please don't hesitate to reach out to me. 
 
